@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm James Nguyen
+# Hi there! 👋 I'm Huy Nguyen
 
 ## 🚀 Full Stack Developer | Python Enthusiast | AI Engineer
 
@@ -63,7 +63,7 @@ A web application that converts various document formats to EPUB for e-readers.
 ### 📫 How to reach me
 
 - 📧 Email: [jamesnq318@gmail.com](mailto:jamesnq318@gmail.com)
-- 💼 LinkedIn: [James Nguyen](https://www.linkedin.com/in/jamesnq/)
+- 💼 LinkedIn: [Huy Nguyen](https://www.linkedin.com/in/jamesnq/)
 - GitHub: [@jamesnq](https://github.com/jamesnq)
 
 ### 📊 GitHub Stats
