@@ -62,8 +62,8 @@ A web application that converts various document formats to EPUB for e-readers.
 
 ### 📫 How to reach me
 
-- 📧 Email: [jamesnq318@gmail.com]
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/jamesnq/)]
+- 📧 Email: [jamesnq318@gmail.com](mailto:jamesnq318@gmail.com)
+- 💼 LinkedIn: [James Nguyen](https://www.linkedin.com/in/jamesnq/)
 - GitHub: [@jamesnq](https://github.com/jamesnq)
 
 ### 📊 GitHub Stats
